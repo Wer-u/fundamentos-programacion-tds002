@@ -11,6 +11,4 @@ Sección: **Grupo No.7**
 
 ## Indice
 
-1. **Introducción a la Programación y a C#:**
-
-   Trabajo en Clase - Semana 1 (01-HolaMundo)
+1. Introducción a la Programación y a C# - 01-HolaMundo
