@@ -1,4 +1,4 @@
-# fundamentos-programacion-tds002
+cle# fundamentos-programacion-tds002
 Prácticas realizadas en la materia Fundamento de Programación
 
 ## Info del estudiante
@@ -11,4 +11,4 @@ Sección: **Grupo No.7**
 
 ## Indice
 
-1. Introducción a la Programación y a C# - 01-HolaMundo
+1. [Introducción a la Programación y a C# - 01-HolaMundo](./01-HolaMundo)
