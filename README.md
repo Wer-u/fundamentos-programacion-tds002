@@ -1,4 +1,4 @@
-cle# fundamentos-programacion-tds002
+## Resumen
 Prácticas realizadas en la materia Fundamento de Programación
 
 ## Info del estudiante
