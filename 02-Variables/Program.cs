@@ -1,5 +1,8 @@
 ﻿namespace _02_Variables;
 
+// Jade Mariel Mateo Baez 20260706
+// Proyecto que se encarga de pedir datos básico y calcular el año de nacimiento basandose en la edad y la constante
+// "ANIO_ACTUAL". Además de mostrar los datos con interpolación.
 class Program
 {
     static void Main(string[] args)
