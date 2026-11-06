@@ -15,3 +15,4 @@ Sección: **Grupo No.7**
 2. [Variables, Constantes y Tipos de Datos: 02-Variables](./02-Variables)
     #### [Evaluación-02:Programas con variables y Tipos de Datos](./Evaluacion02)
 3. [Operacines y Expresiones: 03-Operadores](./03-Operadores)
+4. [Estructura secuencial, entrada, proceso y salida: 04-Secuencial](./04-Secuencial)
