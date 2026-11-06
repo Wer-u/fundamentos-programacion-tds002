@@ -45,7 +45,13 @@ class Program
 
         /* RESULTADOS DEL PROGRAMA x=10, y=3:
 
-
+        Suma: 13
+        Resta: 7
+        Producto: 30
+        División Real: 3.3333333333333333333333333333
+        División Entera: 3
+        Residuo: 1
+        El primer número es PAR: True
 
 
 
