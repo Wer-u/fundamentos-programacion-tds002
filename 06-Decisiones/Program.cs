@@ -1,6 +1,6 @@
 ﻿//      Jade Mateo Baez 20260706
 //      Fecha: 15/11/2026
-//      Resumen: Realización de un programa con dos partes. La primera parte evalua una nota y la segunga es un menú de calculadora
+//      Resumen: Realización de un programa con dos partes. La primera parte evalua una nota y la segunda es un menú de calculadora
         
     
     // PARTE 1: CALIFICACIÓN
