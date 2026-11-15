@@ -18,3 +18,4 @@ Sección: **Grupo No.7**
 4. [Estructura secuencial, entrada, proceso y salida: 04-Secuencial](./04-Secuencial)
     #### [Evaluación-03:Programas Secuenciales en C#](./Evaluación03)
 5. [Estructura de Decisión y Selección: 06-Decisiones](./06-Decisiones)
+6. [Ciclo While y Do-While: 07-Ciclos](./07-Ciclos/)
