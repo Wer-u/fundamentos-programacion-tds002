@@ -13,9 +13,10 @@ Sección: **Grupo No.7**
 
 1. [Introducción a la Programación y a C#: 01-HolaMundo](./01-HolaMundo)
 2. [Variables, Constantes y Tipos de Datos: 02-Variables](./02-Variables)
-    #### [Evaluación-02:Programas con variables y Tipos de Datos](./Evaluacion02)
+    #### [Evaluación-02: Programas con variables y Tipos de Datos](./Evaluacion02)
 3. [Operacines y Expresiones: 03-Operadores](./03-Operadores)
 4. [Estructura secuencial, entrada, proceso y salida: 04-Secuencial](./04-Secuencial)
-    #### [Evaluación-03:Programas Secuenciales en C#](./Evaluación03)
+    #### [Evaluación-03: Programas Secuenciales en C#](./Evaluación03)
 5. [Estructura de Decisión y Selección: 06-Decisiones](./06-Decisiones)
 6. [Ciclo While y Do-While: 07-Ciclos](./07-Ciclos/)
+    ####[Evaluación 05: Programas con Ciclos while y do-while](./Evaluacion05)
